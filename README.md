@@ -5,6 +5,8 @@
 - 🌱 I’m currently learning React and will learn Java Spring
 - 📫 You can reach me at *alexisreis@outlook.fr*
 - 🌐 My portfolio is accesible here : http://alexisreis.github.io
+- 📝 My last projet is a web-app : https://anno-app.herokuapp.com/
+
 <details>
   <summary>My Top Languages</summary>
 
